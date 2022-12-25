@@ -5,6 +5,7 @@
 
 body{
     margin-top: 52px;
+    margin-bottom: 32px;
     padding: 0px;
     background-color: #FDFDFD;
     display: flex;
