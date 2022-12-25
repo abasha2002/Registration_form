@@ -6,15 +6,15 @@
 body{
     margin: 0px;
     padding: 0px;
-    height: 832px;
+    height: 100vh;
     background-color: #FDFDFD;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .container{
-
     background: #FFFFFF;
     border: 1px solid #F2F2F2;
     border-radius: 10px;
