@@ -70,6 +70,13 @@ textarea{
     border-radius: 10px;
     padding: 18px;
     resize: none;
+
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
 }
 
 .for-button{
