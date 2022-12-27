@@ -117,7 +117,6 @@ select{
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color: #E7E7E7;
 }
 
 option{
@@ -127,4 +126,8 @@ option{
     font-size: 16px;
     line-height: 19px;
     color: #000000;
+}
+
+select:invalid{
+    color: #E7E7E7;
 }
